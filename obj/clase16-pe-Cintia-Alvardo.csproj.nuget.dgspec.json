@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj": {}
+    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj": {
+    "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj",
         "projectName": "clase16-pe-Cintia-Alvardo",
-        "projectPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\clase16-pe-Cintia-Alvardo.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive - Ministerio de Educación, Gobierno de El Salvador\\Documents\\Clase 16\\clase16-pe-Cintia-Alvardo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
